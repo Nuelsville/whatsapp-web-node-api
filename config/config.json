@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jeptfntj",
+    "password": "rOulf7S0_chXC-SjVabBgE8Tp_K1vys2",
+    "database": "jeptfntj",
+    "host": "isilo.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jeptfntj",
+    "password": "rOulf7S0_chXC-SjVabBgE8Tp_K1vys2",
+    "database": "jeptfntj",
+    "host": "isilo.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "jeptfntj",
+    "password": "rOulf7S0_chXC-SjVabBgE8Tp_K1vys2",
+    "database": "jeptfntj",
+    "host": "isilo.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
