@@ -26,6 +26,7 @@ const client = new Client();
 // Handle QR code generation
 client.on('qr', (qr) => {
     qrcode.generate(qr, { small: true });
+    console.log('QR Code generated: ', qr);
 });
 
 // Handle ready event
